@@ -1,4 +1,4 @@
-this is a readme file for my task1 project
+
 # LibraryProject
 
 A Django-based library management system.
